@@ -3,7 +3,7 @@
 DigitalOut myled(LED1);
 DigitalOut myled2(LED3);
 
-void Led(DigitalOut &ledpin);
+void led(DigitalOut &ledpin);
 
 int main()
 {
